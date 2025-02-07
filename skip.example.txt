@@ -1,0 +1,4 @@
+# Comments start with #
+/Users/me/important-project
+/Users/me/client-work
+./relative/path/to/skip
